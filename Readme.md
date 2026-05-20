@@ -12,7 +12,8 @@ Built with:
 
 # 🚀 Live Demo
 
-[Add your Streamlit deployment link here]
+diabetes-risk-prediction-spk2rajjv2uwxurj7kqivy.streamlit.app
+
 
 ---
 
